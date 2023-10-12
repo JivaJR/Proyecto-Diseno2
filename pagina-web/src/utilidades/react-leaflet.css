@@ -1,0 +1,11 @@
+.leaflet-container {
+    margin:25px auto;
+    width: 95%;
+    height: 85vh;
+    z-index: 0;
+    align-content: 'center';
+}
+.leaflet-popup-content-wrapper{
+    max-height: 300px;
+    overflow-y: scroll;
+}

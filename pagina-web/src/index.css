@@ -1,0 +1,41 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+/* ::-webkit-scrollbar {
+  height: 1rem;
+  width: 0.5rem;
+}
+::-webkit-scrollbar-thumb {
+  --tw-border-opacity: 1;
+  background-color: rgba(217,217,227,.8);
+  background-color: yellow;
+  border-radius: 9999px;
+  border-width: 1px;
+}
+::-webkit-scrollbar-track {
+  background-color: transparent;
+  border-radius: 9999px;
+} */
+
+.container-coors{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.content-table{
+  width: 60%;
+  background-color: rgb(0, 0, 0);
+}
+
+.table-title{
+  width: 30%;
+  background-color: yellow;
+}
+.table-item{
+  width: 60%;
+  background-color: white;
+}
+
+
